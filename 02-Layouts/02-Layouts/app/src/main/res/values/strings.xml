@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text">Hello, I am a TextView</string>
+    <string name="buttonText">Hello, I am a Button</string>
+
+    <string name="grid_layout">Grid layout</string>
+</resources>
